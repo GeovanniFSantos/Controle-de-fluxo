@@ -1,7 +1,7 @@
-package challenge;
+package challenge.contador;
 import java.util.Scanner;
 
-import challenge.utils.ParametrosInvalidosException;
+import challenge.contador.utils.ParametrosInvalidosException;
 
 
 public class Contador {
